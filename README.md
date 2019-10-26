@@ -1,3 +1,7 @@
+# Résultats:
+
+![](https://image.noelshack.com/fichiers/2019/43/6/1572094845-jsonparse.png)
+
 # Parser un fichier JSON de données météos
 
 Ouvre le fichier `weather.json` afin d'en comprendre sa structure, puis complète la classe `WeatherParse`.
